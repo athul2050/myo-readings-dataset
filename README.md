@@ -26,24 +26,25 @@ Each file contains one minute of recordings and should be around 12 000 lines lo
 ## Gesture labels ##
 * 0: hibernation
 	* <img height="100" src="https://i.imgur.com/wIaBTrp.png">
+* 1: relax
 	* <img height="100" src="https://i.imgur.com/EHSFyVX.png">
-* 1: flexion
+* 2: flexion
 	* <img height="100" src="https://i.imgur.com/sp4wWX3.png">
-* 2: extension
+* 3: extension
 	* <img height="100" src="https://i.imgur.com/WtojDBg.png">
-* 3: radial deviation
+* 4: radial deviation
 	* <img height="100" src="https://i.imgur.com/lsqb881.png">
-* 4: ulnar deviation
+* 5: ulnar deviation
 	* <img height="100" src="https://i.imgur.com/ypGlBKi.png">
-* 5: pronation
+* 6: pronation
 	* <img height="100" src="https://i.imgur.com/TQmps6o.png">
-* 6: supination
+* 7: supination
 	* <img height="100" src="https://i.imgur.com/oIPhfVB.png">
-* 7: fist
+* 8: fist
 	* <img height="100" src="https://i.imgur.com/1DTqj5Y.png">
 
 ## Optional gesture labels ##
-* 8: sign of the horns
+* 9: sign of the horns
 	* <img height="100" src="https://i.imgur.com/IhPe0pz.png">
 * <new_gesture_label>: <new_gesture_class_name>
 	* <new_gesture_image>
